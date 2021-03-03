@@ -58,8 +58,8 @@ status-website:
   baseUrl: /10x-uptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: 10x Uptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: 10x - Uptime status page POC.
+  introTitle: "**10x - Uptime** status page POC."
+  introMessage: ""
   navbar:
     - title: Status
       href: /
