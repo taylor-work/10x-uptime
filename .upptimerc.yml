@@ -3,10 +3,14 @@ owner: taylor-work # Your GitHub username
 repo: 10x-uptime # Your GitHub repository name
 user-agent: taylor-work
 
-skipDescriptionUpdate: true
+skipDescriptionUpdate: false
 skipTopicsUpdate: true
 
 robotsText: "User-agent: * \n Disallow: /"
+
+status-website:
+  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
+  introMessage: "10x - Uptime monitoring phase 2 POC"
 
 workflowSchedule:
   graphs: "0 0 * * *"
