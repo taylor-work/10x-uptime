@@ -1,6 +1,12 @@
 # Change these first
 owner: taylor-work # Your GitHub username
 repo: 10x-uptime # Your GitHub repository name
+user-agent: taylor-work
+
+skipDescriptionUpdate: true
+skipTopicsUpdate: true
+
+robotsText: "User-agent: * \n Disallow: /"
 
 workflowSchedule:
   graphs: "0 0 * * *"
