@@ -1,7 +1,7 @@
 url: https://FISHWATCH.GOV
-status: up
-code: 200
-responseTime: 412
-lastUpdated: 2021-03-10T23:05:47.092Z
+status: down
+code: 504
+responseTime: 10404
+lastUpdated: 2021-03-11T21:36:27.877Z
 startTime: Wed Mar 03 2021 17:35:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
