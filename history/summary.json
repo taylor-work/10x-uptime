@@ -4,7 +4,7 @@
     "url": "https://BEA.GOV",
     "icon": "https://favicons.githubusercontent.com/bea.gov",
     "slug": "bea-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-04-08": 67,
+      "2021-04-08": 151,
       "2021-04-07": 1440,
       "2021-04-06": 1440,
       "2021-04-05": 1440,
@@ -198,7 +198,7 @@
     "timeMonth": 511,
     "timeYear": 510,
     "dailyMinutesDown": {
-      "2021-04-08": 67,
+      "2021-04-08": 152,
       "2021-04-07": 1440,
       "2021-04-06": 1440,
       "2021-04-05": 1440,
