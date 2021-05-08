@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-05-08": 618,
+      "2021-05-08": 963,
       "2021-05-07": 1440,
       "2021-05-06": 1440,
       "2021-05-05": 1440,
@@ -108,7 +108,7 @@
     "url": "https://BUYUSA.GOV",
     "icon": "https://favicons.githubusercontent.com/buyusa.gov",
     "slug": "buyusa-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -228,7 +228,7 @@
     "timeMonth": 529,
     "timeYear": 518,
     "dailyMinutesDown": {
-      "2021-05-08": 618,
+      "2021-05-08": 963,
       "2021-05-07": 1440,
       "2021-05-06": 1440,
       "2021-05-05": 1440,
