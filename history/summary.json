@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-07-11": 62,
+      "2021-07-11": 808,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
@@ -292,7 +292,7 @@
     "timeMonth": 569,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2021-07-11": 62,
+      "2021-07-11": 808,
       "2021-07-10": 1440,
       "2021-07-09": 1440,
       "2021-07-08": 1440,
@@ -520,7 +520,7 @@
     "url": "https://GOES-R.GOV",
     "icon": "https://favicons.githubusercontent.com/goes-r.gov",
     "slug": "goes-r-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
