@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-11": 1154,
+      "2021-08-11": 1224,
       "2021-08-10": 1440,
       "2021-08-09": 1440,
       "2021-08-08": 1440,
@@ -323,7 +323,7 @@
     "timeMonth": 500,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2021-08-11": 1154,
+      "2021-08-11": 1224,
       "2021-08-10": 1440,
       "2021-08-09": 1440,
       "2021-08-08": 1440,
@@ -528,7 +528,7 @@
     "url": "https://EXPORT.GOV",
     "icon": "https://favicons.githubusercontent.com/export.gov",
     "slug": "export-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
