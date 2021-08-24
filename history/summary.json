@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-08-24": 574,
+      "2021-08-24": 921,
       "2021-08-23": 1440,
       "2021-08-22": 1440,
       "2021-08-21": 1440,
@@ -260,7 +260,7 @@
     "uptimeYear": "100.00%",
     "time": 282,
     "timeDay": 221,
-    "timeWeek": 209,
+    "timeWeek": 212,
     "timeMonth": 269,
     "timeYear": 282,
     "dailyMinutesDown": {}
@@ -288,7 +288,7 @@
     "url": "https://DNSOPS.GOV",
     "icon": "https://favicons.githubusercontent.com/dnsops.gov",
     "slug": "dnsops-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -296,7 +296,7 @@
     "uptimeYear": "100.00%",
     "time": 299,
     "timeDay": 938,
-    "timeWeek": 220,
+    "timeWeek": 234,
     "timeMonth": 161,
     "timeYear": 299,
     "dailyMinutesDown": {}
@@ -336,7 +336,7 @@
     "timeMonth": 545,
     "timeYear": 529,
     "dailyMinutesDown": {
-      "2021-08-24": 574,
+      "2021-08-24": 921,
       "2021-08-23": 1440,
       "2021-08-22": 1440,
       "2021-08-21": 1440,
