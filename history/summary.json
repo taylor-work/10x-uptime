@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-09-25": 59,
+      "2021-09-25": 1308,
       "2021-09-24": 1440,
       "2021-09-23": 1440,
       "2021-09-22": 1440,
@@ -368,7 +368,7 @@
     "timeMonth": 503,
     "timeYear": 525,
     "dailyMinutesDown": {
-      "2021-09-25": 59,
+      "2021-09-25": 1308,
       "2021-09-24": 1440,
       "2021-09-23": 1440,
       "2021-09-22": 1440,
@@ -627,7 +627,7 @@
     "time": 1225,
     "timeDay": 1010,
     "timeWeek": 1194,
-    "timeMonth": 970,
+    "timeMonth": 973,
     "timeYear": 1225,
     "dailyMinutesDown": {}
   },
@@ -636,7 +636,7 @@
     "url": "https://FIRSTNET.GOV",
     "icon": "https://favicons.githubusercontent.com/firstnet.gov",
     "slug": "firstnet-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
