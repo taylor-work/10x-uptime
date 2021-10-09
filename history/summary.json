@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-09": 59,
+      "2021-10-09": 1158,
       "2021-10-08": 1440,
       "2021-10-07": 1440,
       "2021-10-06": 1440,
@@ -352,7 +352,7 @@
     "url": "https://DOC.GOV",
     "icon": "https://favicons.githubusercontent.com/doc.gov",
     "slug": "doc-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -382,7 +382,7 @@
     "timeMonth": 515,
     "timeYear": 524,
     "dailyMinutesDown": {
-      "2021-10-09": 59,
+      "2021-10-09": 1158,
       "2021-10-08": 1440,
       "2021-10-07": 1440,
       "2021-10-06": 1440,
@@ -655,7 +655,7 @@
     "time": 1204,
     "timeDay": 968,
     "timeWeek": 931,
-    "timeMonth": 966,
+    "timeMonth": 963,
     "timeYear": 1204,
     "dailyMinutesDown": {}
   },
