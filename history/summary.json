@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-10-22": 71,
+      "2021-10-22": 874,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
       "2021-10-19": 1440,
@@ -395,7 +395,7 @@
     "timeMonth": 513,
     "timeYear": 523,
     "dailyMinutesDown": {
-      "2021-10-22": 71,
+      "2021-10-22": 874,
       "2021-10-21": 1440,
       "2021-10-20": 1440,
       "2021-10-19": 1440,
@@ -672,7 +672,7 @@
     "url": "https://EXPORT.GOV",
     "icon": "https://favicons.githubusercontent.com/export.gov",
     "slug": "export-gov",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -680,7 +680,7 @@
     "uptimeYear": "100.00%",
     "time": 1189,
     "timeDay": 966,
-    "timeWeek": 1063,
+    "timeWeek": 1089,
     "timeMonth": 960,
     "timeYear": 1189,
     "dailyMinutesDown": {}
@@ -734,7 +734,7 @@
     "uptimeYear": "100.00%",
     "time": 261,
     "timeDay": 163,
-    "timeWeek": 274,
+    "timeWeek": 260,
     "timeMonth": 247,
     "timeYear": 261,
     "dailyMinutesDown": {}
